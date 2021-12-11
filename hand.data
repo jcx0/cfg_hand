@@ -1,0 +1,5 @@
+classes = 1
+train  = /home/user/projects/aslml/darknet/data/catch_these_hands/train.txt
+valid  = /home/user/projects/aslml/darknet/data/catch_these_hands/test.txt
+names = hand.names
+backup = backup/
